@@ -83,7 +83,7 @@ assert aol_msg == s_msg
 
 print(f'receiver email: {aol_to} = {s_to}')
 print(f'email subject:  {aol_sub} = {s_sub}')
-print(f'email contact:  {aol_msg} = {s_msg}')
+print(f'email content:  {aol_msg} = {s_msg}')
 print()
 print('test passed')
 
